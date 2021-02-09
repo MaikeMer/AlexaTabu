@@ -1,0 +1,4 @@
+welcomeMsg = Hallo, herzlich willkommen beim Tabusppiel. Du bekommst ein Tabuwort mit mehreren Begrifflichkeiten. Das Tabuwort musst du mir erklären, aber du darfst bei deiner Erklärung weder das Tabuwort noch die Begrifflichkeiten benutzen. Ich muss versuchen dein Tabuwort zu erraten. 
+tabuMsg = Hey, du hast ein Tabuwort bei deiner Erklärung genannt. Du hast leider verloren.
+goodbyeMsg = Danke fürs mitspielen, du hast super gespielt!
+weiterspielenMsg = Möchtest du weiterspielen? 
